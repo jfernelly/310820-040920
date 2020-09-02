@@ -1,0 +1,16 @@
+.red, .orange, .blue {
+    height: 100px;
+    
+}
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: blue;
+}
